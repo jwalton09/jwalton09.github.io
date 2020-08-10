@@ -6,6 +6,6 @@ In the summer of 2020 I took a class GIS course based in R called Geography 176A
 
 ## [Building a project website]()
 
-- in this assignment I learned how to effectivly use the termial.
+- In this assignment I learned how to effectivly use the termial.
 - I learned how to link my work from RStudio onto Github.
 - I learned how to create multiple files in my directory.

@@ -6,6 +6,6 @@ title: "About Me"
 # Hi, I'm Jordan Walton.
 </center>
   
-I'm a fourth year geography student at UCSB. I entered Ucsb as a Political Science major but decided to pursue other goals. My work in college has included interning at the Court house in Santa Barbara and working at the front desk of UCSB residential housing. In my spare time I enjoy reading books, playing video games, and watching anime. 
+I'm a fourth year geography student at UCSB. I entered UCSB as a Political Science major but decided to pursue other goals. My work in college has included interning at the Court house in Santa Barbara and working at the front desk of UCSB residential housing. In my spare time I enjoy reading books, playing video games, and watching anime. 
 
 ![Jordan Walton](./img/jordan_pic.JPG)
