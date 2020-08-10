@@ -1,0 +1,18 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-black-tie
+      href: geog176A.html
+  right:
+    - icon: fa-github
+      href: https://github.com/jwalton09/jwalton09.github.io
+
+output:
+  html_document:
+    theme: darkly
