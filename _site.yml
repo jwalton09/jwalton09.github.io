@@ -9,6 +9,10 @@ navbar:
     - text: "GIS Work"
       icon: fa-black-tie
       href: geog176A.html
+    - text: "Resume"
+      icon: fa-user-tie
+      href: cv.html
+      
   right:
     - icon: fa-github
       href: https://github.com/jwalton09/jwalton09.github.io
